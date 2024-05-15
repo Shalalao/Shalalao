@@ -2,9 +2,9 @@
 
 Meu nome é Samuel Barros
 
--Estou estudando no Alura
--Estou desenvolvendo e estudando linguagens de programação
--Eu vou utilizar esse espaço para guarda e compartilhar meu códigos com vocês
+- Estou estudando no Alura
+- Estou desenvolvendo e estudando linguagens de programação
+- Eu vou utilizar esse espaço para guarda e compartilhar meu códigos com vocês
 
 ### Entrarv em contanto comigo 📫
 
