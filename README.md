@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá e seja bem vindo ao meu mundo👋
 
-<!--
-**Shalalao/Shalalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel Barros
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou desenvolvendo e estudando linguagens de programação
+-Eu vou utilizar esse espaço para guarda e compartilhar meu códigos com vocês
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entrarv em contanto comigo 📫
+
+samuelgbarros16@gmail.com
+
+![](https://media1.tenor.com/m/3wen1lf5mK8AAAAC/dragon-ball-z-goku.gif)
